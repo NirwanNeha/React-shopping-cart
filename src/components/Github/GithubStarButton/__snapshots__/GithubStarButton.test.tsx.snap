@@ -14,12 +14,12 @@ Object {
           </small>
         </p>
         <a
-          aria-label="Star jeffersonRibeiro/react-shopping-cart on GitHub"
+          aria-label="https://github.com/NirwanNeha"
           class="github-button"
           data-icon="octicon-star"
           data-show-count="true"
           data-size="large"
-          href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+          href="https://github.com/NirwanNeha"
           tabindex="-1"
         >
           Star
@@ -37,12 +37,12 @@ Object {
         </small>
       </p>
       <a
-        aria-label="Star jeffersonRibeiro/react-shopping-cart on GitHub"
+        aria-label="https://github.com/NirwanNeha"
         class="github-button"
         data-icon="octicon-star"
         data-show-count="true"
         data-size="large"
-        href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+        href="https://github.com/NirwanNeha"
         tabindex="-1"
       >
         Star
